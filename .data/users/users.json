@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1",
+    "name": "Md Messi",
+    "gender": "Male",
+    "contact": 8801925716395,
+    "address": "Barishal",
+    "photoURL": "https://static.footballtransfers.com/images/cn/image/upload/q_75,w_1200,h_800,ar_3.2/footballcritic/s8xqnig1iiyq75fqldqj"
+  },
+  {
+    "_id": "2",
+    "name": "Ronaldo",
+    "gender": "Male",
+    "contact": 8801925716395,
+    "address": "India",
+    "photoURL": "https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkxMzE0Mjg4NzkzNjI2MTQ1/ronaldo-rayo-vallecano.jpg"
+  },
+  {
+    "_id": "3",
+    "name": "MBappe",
+    "gender": "Male",
+    "contact": 8801925716395,
+    "address": "Pabna",
+    "photoURL": "https://www.planetsport.com/image-library/square/1200/k/kylian-mbappe-psg-france-3-april-2022.jpg"
+  },
+  {
+    "_id": "4",
+    "name": "Neymar",
+    "gender": "Male",
+    "contact": 8801925716395,
+    "address": "Mohammadpur",
+    "photoURL": "https://imageio.forbes.com/specials-images/imageserve/627bd53a3a4d3cd7729717cc/0x0.jpg?format=jpg&crop=1069,1070,x707,y83,safe&height=416&width=416&fit=bounds"
+  },
+  {
+    "_id": "5",
+    "name": "Pele",
+    "gender": "Male",
+    "contact": 8801925716395,
+    "address": "Mymonshingh",
+    "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pele_by_John_Mathew_Smith.jpg/1200px-Pele_by_John_Mathew_Smith.jpg"
+  },
+  {
+    "_id": "6",
+    "name": "Erling",
+    "gender": "Male",
+    "contact": 8801925716395,
+    "address": "Sherpur",
+    "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/FC_RB_Salzburg_versus_SV_Mattersburg_%284._Juli_2019%29_29.jpg/640px-FC_RB_Salzburg_versus_SV_Mattersburg_%284._Juli_2019%29_29.jpg"
+  }
+]
